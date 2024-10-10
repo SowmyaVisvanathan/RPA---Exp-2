@@ -3,13 +3,13 @@
 ### Date : 
 # Exercise 2 - Welcome message in Message box with IF Condition
 
-## Aim:
+### Aim:
 To display a simple welcome message in Message box with IF Condition using UiPath. Get input of name from user and if name is "RAM", Display message as "Welcome back Ram" otherwise "Welcome new user " followed by given name.
 
-## Software required:
+### Software required:
 UiPath Studio-community edition
 
-## Procedure:
+### Procedure:
 
 #### **1. Create a New Project in UiPath Studio**
 - **Step 1:** Open UiPath Studio Community Edition.
@@ -55,12 +55,12 @@ UiPath Studio-community edition
 - **Step 1:** Click **File** > **Save** to ensure all changes are saved.
 - **Step 2:** Click the **Run** button at the top of UiPath Studio to execute the workflow.
 
-## Main.xaml:
+### Main.xaml:
 
 ![Screenshot 2024-10-08 191705](https://github.com/user-attachments/assets/1b07d154-f328-49ce-933c-7e77bab71aad)
 
 
-## Output:
+### Output:
 
 ![Screenshot 2024-10-08 191751](https://github.com/user-attachments/assets/377824aa-8ce3-4358-b67c-69264e1436b7)
 
@@ -68,7 +68,7 @@ UiPath Studio-community edition
 
 
 
-## Result:
+### Result:
 Hence a welcome message in Message box with IF Condition is displayed.
 
 
